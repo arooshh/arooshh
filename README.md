@@ -27,7 +27,7 @@
   <samp>
     <a href="#">「 Contact Me 」</a>
     <br>
-    「 I am a aiming Full Stack developer from <b>India</b> 」
+    「 I am a aiming DevOps developer from <b>India</b> 」
     <br>
     <br>
   </samp>
